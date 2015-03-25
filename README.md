@@ -1,5 +1,2 @@
-s
 
-r
-q
-
+compile : make
